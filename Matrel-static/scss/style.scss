@@ -1,0 +1,119 @@
+main{
+  .row{
+  margin-top: 50px;
+
+}
+}
+.entete{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+  h3{
+  color:orange;
+  text-transform: capitalize;
+  border-bottom: 1px solid orange;
+  margin:20px;
+}
+.fi-home{
+  font-size: 30px;
+  color: rgb(180,180,180);
+    &:hover{
+      color: orange;
+    }
+}
+
+.menu{
+  border-bottom:1px solid orange;
+
+}
+.breadcrumbs{
+  border: none;
+  background: none;
+    li {
+      text-transform: none;
+      font-size: 12px;
+      color: orange;
+      a{
+        text-transform: none;
+        font-size: 12px;
+        color: orange;
+      }
+    }
+}
+
+.logo img{
+  width: 70%;
+}
+.texte p{
+  font-size: 18px;
+  font-style: italic;
+  padding: 20px;
+  margin:0 0;
+  line-height: 19px;
+}
+
+.detail{
+  list-style-type: none;
+    h5{
+      font-weight: 700px;
+      font-size: 18px;
+      margin: 0 0;
+    }
+    p{
+      color: orange;
+      font-size: 15px;
+      line-height: 15px;
+    }
+}
+
+.expand{
+  color: orange;
+  text-transform: uppercase;
+  background: none;
+  border: 1px solid orange;
+  &:hover{
+    color: white;
+    text-transform: uppercase;
+    background: orange;
+    border: 1px solid orange;
+  }
+}
+
+.caracteristique{
+  background: #f7f7f7;
+  padding: 10px;
+}
+.full-width {
+   width: 100%;
+   max-width: initial;
+   padding: 20px 0;
+   margin: 0 auto 0 auto;
+   background: rgb(0,0,0);
+}
+
+.footer ul li{
+  list-style: none;
+  color: white;
+  font-size: 15px;
+    a{
+      list-style: none;
+      color: white;
+      font-size: 15px;
+      &:hover{
+        list-style: none;
+        color: orange;
+        font-size: 15px;
+      }
+    }
+}
+
+.large-3{
+  margin-top: 50px;
+  img{
+  border:1px solid orange;
+  &:hover{
+    border:1px solid rgba(255,0,0,0.5);
+    box-shadow: 1px 1px 12px #555;
+  }
+  }
+}

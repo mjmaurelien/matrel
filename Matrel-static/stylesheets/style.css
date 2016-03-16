@@ -1,0 +1,145 @@
+/* line 2, ../scss/style.scss */
+main .row {
+  margin-top: 50px;
+}
+
+/* line 7, ../scss/style.scss */
+.entete {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+/* line 11, ../scss/style.scss */
+h3 {
+  color: orange;
+  text-transform: capitalize;
+  border-bottom: 1px solid orange;
+  margin: 20px;
+}
+
+/* line 17, ../scss/style.scss */
+.fi-home {
+  font-size: 30px;
+  color: #b4b4b4;
+}
+/* line 20, ../scss/style.scss */
+.fi-home:hover {
+  color: orange;
+}
+
+/* line 25, ../scss/style.scss */
+.menu {
+  border-bottom: 1px solid orange;
+}
+
+/* line 29, ../scss/style.scss */
+.breadcrumbs {
+  border: none;
+  background: none;
+}
+/* line 32, ../scss/style.scss */
+.breadcrumbs li {
+  text-transform: none;
+  font-size: 12px;
+  color: orange;
+}
+/* line 36, ../scss/style.scss */
+.breadcrumbs li a {
+  text-transform: none;
+  font-size: 12px;
+  color: orange;
+}
+
+/* line 44, ../scss/style.scss */
+.logo img {
+  width: 70%;
+}
+
+/* line 47, ../scss/style.scss */
+.texte p {
+  font-size: 18px;
+  font-style: italic;
+  padding: 20px;
+  margin: 0 0;
+  line-height: 19px;
+}
+
+/* line 55, ../scss/style.scss */
+.detail {
+  list-style-type: none;
+}
+/* line 57, ../scss/style.scss */
+.detail h5 {
+  font-weight: 700px;
+  font-size: 18px;
+  margin: 0 0;
+}
+/* line 62, ../scss/style.scss */
+.detail p {
+  color: orange;
+  font-size: 15px;
+  line-height: 15px;
+}
+
+/* line 69, ../scss/style.scss */
+.expand {
+  color: orange;
+  text-transform: uppercase;
+  background: none;
+  border: 1px solid orange;
+}
+/* line 74, ../scss/style.scss */
+.expand:hover {
+  color: white;
+  text-transform: uppercase;
+  background: orange;
+  border: 1px solid orange;
+}
+
+/* line 82, ../scss/style.scss */
+.caracteristique {
+  background: #f7f7f7;
+  padding: 10px;
+}
+
+/* line 86, ../scss/style.scss */
+.full-width {
+  width: 100%;
+  max-width: initial;
+  padding: 20px 0;
+  margin: 0 auto 0 auto;
+  background: black;
+}
+
+/* line 94, ../scss/style.scss */
+.footer ul li {
+  list-style: none;
+  color: white;
+  font-size: 15px;
+}
+/* line 98, ../scss/style.scss */
+.footer ul li a {
+  list-style: none;
+  color: white;
+  font-size: 15px;
+}
+/* line 102, ../scss/style.scss */
+.footer ul li a:hover {
+  list-style: none;
+  color: orange;
+  font-size: 15px;
+}
+
+/* line 110, ../scss/style.scss */
+.large-3 {
+  margin-top: 50px;
+}
+/* line 112, ../scss/style.scss */
+.large-3 img {
+  border: 1px solid orange;
+}
+/* line 114, ../scss/style.scss */
+.large-3 img:hover {
+  border: 1px solid rgba(255, 0, 0, 0.5);
+  box-shadow: 1px 1px 12px #555;
+}
